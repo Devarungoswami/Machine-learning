@@ -8,22 +8,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Tensorflow
-Numpy
+Tensorflow\n
+Numpy\n
 Matplotlib
 
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Acknowledgments
 
